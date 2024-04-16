@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **automation testing**
 
-- 💬 Ask me about **software testing and epub Quality Checking and Bug fixing**
+- 💬 Ask me about **software testing, epub Quality Checking and Bug fixing**
 
 - 📫 How to reach me **syednawkil@gmail.com**
 
